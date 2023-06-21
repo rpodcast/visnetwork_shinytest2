@@ -1,4 +1,5 @@
 library(shiny)
+library(shinyvalidate)
 library(bslib)
 library(igraph)
 library(visNetwork)
